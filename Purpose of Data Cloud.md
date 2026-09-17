@@ -1,4 +1,5 @@
-                                    ##Purpose of Salesforce Data Cloud/Data 360##
+                                    Purpose of Salesforce Data Cloud/Data 360
+                                    =========================================
 
 
 1. Core Purpose
